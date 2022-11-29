@@ -1,4 +1,4 @@
-# coursera_Mining_using_ML_DL
+# Mining Quality Prediction Using Machine & Deep Learning, Coursera
 This is a practical project to anticipate the percentage of silica concentration in the iron ore concentrate each minute using deep learning and machine learning models. This is generally  used in mining industry. This project is taken from the course project of "Mining Quality Prediction Using Machine &amp; Deep Learning" in coursera. The tasks we willl follow : 
 (1) Understand the Problem Statement 
 (2) Import libraries and datasets(Apply Python libraries to import) 
